@@ -47,3 +47,10 @@ r is the radius of the earth/sphere/circle
 
 σ  is the latitude
 ∆ is the longitude
+
+Procedure to run the program :
+==========
+1. Save the code and the file customers.json in a same location.
+2. Now, compile the code(using cmd : g++ file_name.cpp) and run it(using cmd : ./a.out /home/gfg/customers.json) with passing file name customers.json along with proper location(e.g. /home/gfg/customers.json).
+3. A file named answers.json will be created on the same location where code and customers.json file is existing.
+
